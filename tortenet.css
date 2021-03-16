@@ -15,5 +15,11 @@ table {
     text-align: center;
 }
 #nagy {
-    width: ;
+    width: 600px;
+    margin: auto;
+
+}
+
+#kep {
+    margin: auto;
 }
