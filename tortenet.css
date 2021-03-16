@@ -17,6 +17,7 @@ table {
 #nagy {
     width: 600px;
     margin: auto;
+    
 
 }
 
@@ -24,7 +25,7 @@ table {
     margin: auto;
 }
 
-p {
+#cím {
     font-size: large;
     font-weight: bold;
 }
