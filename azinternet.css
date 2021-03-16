@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(224,224,224);
+}
+
+.link {
+    color: rgb(102,101,132);
+}
+
+#asztal {
+    border: 2px solid black;
+    width: 650px;
+}
